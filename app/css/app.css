@@ -1,0 +1,38 @@
+* {
+  color: #adb5bd!important;
+}
+
+body {
+  background: #212529;
+  color: #adb5bd!important;
+}
+
+nav{
+  background-color: #161616;
+}
+
+.navbar-brand, .navbar-toggler {
+    color: #adb5bd;
+}
+
+.badge {
+  margin-bottom: .8rem;
+  margin-right: 1rem;
+  font-size: 1.2rem
+}
+
+.mt-2{
+  margin-top: 2rem;
+}
+
+.mb-2{
+  margin-bottom: 2rem;
+}
+
+.gtxt{
+  color: green!important;
+}
+
+.txt-end{
+  justify-content: end!important;
+}
